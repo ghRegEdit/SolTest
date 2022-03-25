@@ -4,7 +4,7 @@ pragma solidity ^0.8.6;
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol";
 
 
-contract SBER-LP is Ownable {
+contract SBER_LP is Ownable {
 
     uint256 private number;
     uint256 public amount;
